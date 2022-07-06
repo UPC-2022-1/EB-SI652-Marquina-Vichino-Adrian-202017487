@@ -1,4 +1,4 @@
-# SI653 – Open Source
+# SI652 – Aplicaciones Open Source
 ## EXAMEN FINAL 2022-1
 ## Marquina Vichino Adrian u202017487
 
