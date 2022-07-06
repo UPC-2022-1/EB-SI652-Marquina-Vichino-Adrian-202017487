@@ -13,10 +13,10 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @OpenAPIDefinition
 @SpringBootApplication
 @EnableJpaAuditing
-public class EbSi653MarquinaVichinoAdrian202017487Application {
+public class EbSi652MarquinaVichinoAdrian202017487Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EbSi653MarquinaVichinoAdrian202017487Application.class, args);
+		SpringApplication.run(EbSi652MarquinaVichinoAdrian202017487Application.class, args);
 	}
 
 	@Configuration
